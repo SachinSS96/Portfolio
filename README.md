@@ -1,4 +1,4 @@
-# Data_Analyst_Portfolio
+# Data_Science_Portfolio
 ## Personal Skills
 
 ### Technical Skills
