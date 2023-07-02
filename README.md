@@ -3,7 +3,7 @@
 
 ### Technical Skills
 
-- **Programming Languages:** Python, R, SQL
+- **Programming Languages:** Python, SQL
 - **Data Analysis and Visualization:** pandas, NumPy, matplotlib, Tableau
 - **Statistical Analysis:** hypothesis testing, regression analysis, A/B testing
 - **Machine Learning:** scikit-learn, decision trees, clustering algorithms
