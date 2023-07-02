@@ -4,7 +4,7 @@
 ### Technical Skills
 
 - **Programming Languages:** Python, SQL
-- **Data Analysis and Visualization:** pandas, NumPy, matplotlib, Tableau
+- **Data Analysis and Visualization:** pandas, NumPy, matplotlib, Microsoft Power bi 
 - **Statistical Analysis:** hypothesis testing, regression analysis, A/B testing
 - **Machine Learning:** scikit-learn, decision trees, clustering algorithms
 - **Data Cleaning and Preprocessing:** data wrangling, feature engineering
@@ -26,7 +26,7 @@
 ### Project 1: Sales Analysis
 
 - **Description:** Analyzed sales data to identify trends and insights, performed data cleaning and preprocessing, created visualizations, and generated reports.
-- **Tools:** Python, pandas, matplotlib, Tableau.
+- **Tools:** Python, pandas, matplotlib, Microsoft Power bi.
 - **GitHub Repository:** [Project 1 - Sales Analysis](https://github.com/yourusername/project1)
 - **Demo:** [Sales Analysis Demo](https://yourusername.github.io/project1)
 
