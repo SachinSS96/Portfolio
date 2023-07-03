@@ -23,12 +23,12 @@
 
 ## Data Analyst Portfolio Projects
 
-### Project 1: Sales Analysis
+### Project 1: Housing Price Analysis
 
-- **Description:** Analyzed sales data to identify trends and insights, performed data cleaning and preprocessing, created visualizations, and generated reports.
+- **Description:** Analyzed Housing data to identify trends and insights, performed data cleaning and preprocessing, created visualizations, and generated reports.
 - **Tools:** Python, pandas, matplotlib, Microsoft Power bi.
-- **GitHub Repository:** [Project 1 - Sales Analysis](https://github.com/yourusername/project1)
-- **Demo:** [Sales Analysis Demo](https://yourusername.github.io/project1)
+- **GitHub Repository:** [Housing Price Analysis](https://github.com/SachinSS96/Data_Science_Portfolio/tree/e8dc84d660134cd4391dcae53bec0e0e3b7c8513/Poject_housing_ML)
+
 
 ### Project 2: Customer Segmentation
 
