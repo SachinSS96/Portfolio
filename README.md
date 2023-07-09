@@ -6,10 +6,9 @@
 - **Programming Languages:** Python, SQL
 - **Data Analysis and Visualization:** pandas, NumPy, matplotlib, Microsoft Power bi 
 - **Statistical Analysis:** hypothesis testing, regression analysis, A/B testing
-- **Machine Learning:** scikit-learn, decision trees, clustering algorithms
+- **Machine Learning:** sci-kit-learn, decision trees, clustering algorithms
 - **Data Cleaning and Preprocessing:** data wrangling, feature engineering
 - **Database Management:** SQL, MySQL, PostgreSQL
-- **Version Control:** Git, GitHub
 
 ### Soft Skills
 
@@ -21,19 +20,19 @@
 - **Adaptability:** Flexibility to work in a fast-paced and dynamic environment, quickly adapting to new tools and technologies.
 - **Continuous Learning:** Enthusiasm for learning new concepts and staying updated with the latest trends and developments in the field of data analysis.
 
-## Data Analyst Portfolio Projects
+##  Projects
 
-### Project 1: Sales Analysis
+### Project 1: Housing Price Analysis
 
-- **Description:** Analyzed sales data to identify trends and insights, performed data cleaning and preprocessing, created visualizations, and generated reports.
-- **Tools:** Python, pandas, matplotlib, Microsoft Power bi.
-- **GitHub Repository:** [Project 1 - Sales Analysis](https://github.com/yourusername/project1)
-- **Demo:** [Sales Analysis Demo](https://yourusername.github.io/project1)
+- **Description:** Analyzed Housing data to identify trends and insights, performed data cleaning and preprocessing, created visualizations, and generated reports.
+- **Tools:** Python, pandas, matplotlib, sci-kit-lear_RandomForestRegressor.
+- **GitHub Repository:** [Housing Price Analysis](https://github.com/SachinSS96/Data_Science_Portfolio/tree/e8dc84d660134cd4391dcae53bec0e0e3b7c8513/Poject_housing_ML)
+
 
 ### Project 2: Customer Segmentation
 
 - **Description:** Conducted customer segmentation analysis using clustering algorithms to identify different customer groups and their characteristics.
-- **Tools:** R, scikit-learn, K-means clustering.
+- **Tools:** R, sci-kit-learn, K-means clustering.
 - **GitHub Repository:** [Project 2 - Customer Segmentation](https://github.com/yourusername/project2)
 - **Demo:** [Customer Segmentation Demo](https://yourusername.github.io/project2)
 
