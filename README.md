@@ -26,15 +26,14 @@
 
 - **Description:** Analyzed Housing data to identify trends and insights, performed data cleaning and preprocessing, created visualizations, and generated reports.
 - **Tools:** Python, pandas, matplotlib, sci-kit-lear_RandomForestRegressor.
-- **GitHub Repository:** [Housing Price Analysis](https://github.com/SachinSS96/Data_Science_Portfolio/tree/e8dc84d660134cd4391dcae53bec0e0e3b7c8513/Poject_housing_ML)
+- **GitHub Repository:** [Housing Price Analysis](https://github.com/SachinSS96/Data_Science_Portfolio/tree/c3adb737d70692001b61d193987ac4144349c5c5/Project_housing_ML)
 
 
-### Project 2: Customer Segmentation
+### Project 2: Sales Dashboard Power Bi
 
 - **Description:** Conducted customer segmentation analysis using clustering algorithms to identify different customer groups and their characteristics.
-- **Tools:** R, sci-kit-learn, K-means clustering.
-- **GitHub Repository:** [Project 2 - Customer Segmentation](https://github.com/yourusername/project2)
-- **Demo:** [Customer Segmentation Demo](https://yourusername.github.io/project2)
+- **Tools:** Power Bi
+- **GitHub Repository:** [Project 2 - Sales Dashboard Power Bi]()
 
 ### Project 3: Predictive Modeling
 
