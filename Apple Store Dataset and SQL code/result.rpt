@@ -1,0 +1,167 @@
+﻿Unique_app_ids
+--------------
+7197
+
+(1 row affected)
+
+Unique_app_ids
+--------------
+7197
+
+(1 row affected)
+
+MissingValues
+-------------
+0
+
+(1 row affected)
+
+MissingValues
+-------------
+0
+
+(1 row affected)
+
+prime_genre                                                                                                                                                                                              NumApps
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -----------
+Games                                                                                                                                                                                                    3862
+Entertainment                                                                                                                                                                                            535
+Education                                                                                                                                                                                                453
+Photo & Video                                                                                                                                                                                            349
+Utilities                                                                                                                                                                                                248
+Health & Fitness                                                                                                                                                                                         180
+Productivity                                                                                                                                                                                             178
+Social Networking                                                                                                                                                                                        167
+Lifestyle                                                                                                                                                                                                144
+Music                                                                                                                                                                                                    138
+Shopping                                                                                                                                                                                                 122
+Sports                                                                                                                                                                                                   114
+Book                                                                                                                                                                                                     112
+Finance                                                                                                                                                                                                  104
+Travel                                                                                                                                                                                                   81
+News                                                                                                                                                                                                     75
+Weather                                                                                                                                                                                                  72
+Reference                                                                                                                                                                                                64
+Food & Drink                                                                                                                                                                                             63
+Business                                                                                                                                                                                                 57
+Navigation                                                                                                                                                                                               46
+Medical                                                                                                                                                                                                  23
+Catalogs                                                                                                                                                                                                 10
+
+(23 rows affected)
+
+MinRating              MaxRating              AvgRating
+---------------------- ---------------------- ----------------------
+0                      5                      3.5269556759761
+
+(1 row affected)
+
+PriceBinStart          PriceBinEnd            NumApps
+---------------------- ---------------------- -----------
+0                      2                      4056
+0.990000009536743      2.99000000953674       728
+1.99000000953674       3.99000000953674       621
+2.99000000953674       4.99000000953674       683
+3.99000000953674       5.99000000953674       277
+4.98999977111816       6.98999977111816       394
+5.98999977111816       7.98999977111816       52
+6.98999977111816       8.98999977111816       166
+7.98999977111816       9.98999977111816       33
+8.98999977111816       10.9899997711182       9
+9.98999977111816       11.9899997711182       81
+11.9899997711182       13.9899997711182       6
+12.9899997711182       14.9899997711182       5
+13.9899997711182       15.9899997711182       6
+14.9899997711182       16.9899997711182       21
+15.9899997711182       17.9899997711182       4
+16.9899997711182       18.9899997711182       2
+17.9899997711182       19.9899997711182       3
+18.9899997711182       20.9899997711182       1
+19.9899997711182       21.9899997711182       13
+20.9899997711182       22.9899997711182       2
+21.9899997711182       23.9899997711182       1
+22.9899997711182       24.9899997711182       2
+23.9899997711182       25.9899997711182       2
+24.9899997711182       26.9899997711182       8
+27.9899997711182       29.9899997711182       2
+29.9899997711182       31.9899997711182       6
+34.9900016784668       36.9900016784668       1
+39.9900016784668       41.9900016784668       2
+47.9900016784668       49.9900016784668       1
+49.9900016784668       51.9900016784668       2
+59.9900016784668       61.9900016784668       3
+74.9899978637695       76.9899978637695       1
+99.9899978637695       101.98999786377        1
+249.990005493164       251.990005493164       1
+299.989990234375       301.989990234375       1
+
+(36 rows affected)
+
+App_Type Avg_Rating
+-------- ----------------------
+paid     3.72094874243871
+free     3.3767258382643
+
+(2 rows affected)
+
+languages_bucket Avg_Rating
+---------------- ----------------------
+10-30 languages  4.13051209103841
+>30 languages    3.77777777777778
+<10 languages    3.36832740213523
+
+(3 rows affected)
+
+prime_genre                                                                                                                                                                                              Avg_Rating
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------
+Catalogs                                                                                                                                                                                                 2.1
+Finance                                                                                                                                                                                                  2.43269230769231
+Book                                                                                                                                                                                                     2.47767857142857
+Navigation                                                                                                                                                                                               2.68478260869565
+Lifestyle                                                                                                                                                                                                2.80555555555556
+News                                                                                                                                                                                                     2.98
+Sports                                                                                                                                                                                                   2.98245614035088
+Social Networking                                                                                                                                                                                        2.98502994011976
+Food & Drink                                                                                                                                                                                             3.18253968253968
+Entertainment                                                                                                                                                                                            3.24672897196262
+
+(10 rows affected)
+
+descripion_length_bucket Avg_Rating
+------------------------ ----------------------
+Long                     3.85594694498804
+Medium                   3.2328094302554
+Short                    2.53361344537815
+
+(3 rows affected)
+
+prime_genre                                                                                                                                                                                              track_name                                                                                                                                                                                                                                                       user_rating
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------
+Book                                                                                                                                                                                                     Color Therapy Adult Coloring Book for Adults                                                                                                                                                                                                                     5
+Business                                                                                                                                                                                                 TurboScan™ Pro - document & receipt scanner: scan multiple pages and photos to PDF                                                                                                                                                                               5
+Catalogs                                                                                                                                                                                                 CPlus for Craigslist app - mobile classifieds                                                                                                                                                                                                                    5
+Education                                                                                                                                                                                                Elevate - Brain Training and Games                                                                                                                                                                                                                               5
+Entertainment                                                                                                                                                                                            Bruh-Button                                                                                                                                                                                                                                                      5
+Finance                                                                                                                                                                                                  Credit Karma: Free Credit Scores, Reports & Alerts                                                                                                                                                                                                               5
+Food & Drink                                                                                                                                                                                             Domino's Pizza USA                                                                                                                                                                                                                                               5
+Games                                                                                                                                                                                                    Head Soccer                                                                                                                                                                                                                                                      5
+Health & Fitness                                                                                                                                                                                         Yoga Studio                                                                                                                                                                                                                                                      5
+Lifestyle                                                                                                                                                                                                ipsy - Makeup, subscription and beauty tips                                                                                                                                                                                                                      5
+Medical                                                                                                                                                                                                  Blink Health                                                                                                                                                                                                                                                     5
+Music                                                                                                                                                                                                    Tenuto                                                                                                                                                                                                                                                           5
+Navigation                                                                                                                                                                                               parkOmator – for Apple Watch meter expiration timer, notifications & GPS navigator to car location                                                                                                                                                               5
+News                                                                                                                                                                                                     The Guardian                                                                                                                                                                                                                                                     5
+Photo & Video                                                                                                                                                                                            Pic Collage - Picture Editor & Photo Collage Maker                                                                                                                                                                                                               5
+Productivity                                                                                                                                                                                             VPN Proxy Master - Unlimited WiFi security VPN                                                                                                                                                                                                                   5
+Reference                                                                                                                                                                                                Sky Guide: View Stars Night or Day                                                                                                                                                                                                                               5
+Shopping                                                                                                                                                                                                 Zappos: shop shoes & clothes, fast free shipping                                                                                                                                                                                                                 5
+Social Networking                                                                                                                                                                                        We Heart It - Fashion, wallpapers, quotes, tattoos                                                                                                                                                                                                               5
+Sports                                                                                                                                                                                                   J23 - Jordan Release Dates and History                                                                                                                                                                                                                           5
+Travel                                                                                                                                                                                                   Urlaubspiraten                                                                                                                                                                                                                                                   5
+Utilities                                                                                                                                                                                                Flashlight Ⓞ                                                                                                                                                                                                                                                     5
+Weather                                                                                                                                                                                                  NOAA Hi-Def Radar Pro -  Storm Warnings, Hurricane Tracker & Weather Forecast                                                                                                                                                                                    5
+
+(23 rows affected)
+
+
+Completion time: 2023-07-10T14:24:36.0161789+05:30
