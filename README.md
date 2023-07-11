@@ -1,4 +1,5 @@
 # Data_Science_Portfolio
+
 ## Personal Skills
 
 ### Technical Skills
@@ -20,27 +21,23 @@
 - **Adaptability:** Flexibility to work in a fast-paced and dynamic environment, quickly adapting to new tools and technologies.
 - **Continuous Learning:** Enthusiasm for learning new concepts and staying updated with the latest trends and developments in the field of data analysis.
 
-##  Projects
+## Projects
 
-### Project 1: Housing Price Analysis
+### Project Name: Housing Price Prediction using Machine Learning
 
-- **Description:** Analyzed Housing data to identify trends and insights, performed data cleaning and preprocessing, created visualizations, and generated reports.
-- **Tools:** Python, pandas, matplotlib, sci-kit-lear_RandomForestRegressor.
-- **GitHub Repository:** [Housing Price Analysis](https://github.com/SachinSS96/Data_Science_Portfolio/tree/c3adb737d70692001b61d193987ac4144349c5c5/Project_housing_ML)
+- **AIM:** The aim of the project is to develop a machine learning model that predicts housing prices based on various features and factors. By leveraging data analysis and predictive modeling techniques, the project seeks to provide accurate estimates of housing prices, aiding in decision-making for buyers, sellers, and real estate professionals.
+- **Role & Responsibility:** As a contributor to the project, my role was to perform data preprocessing, exploratory data analysis (EDA), feature engineering, model selection, and evaluation. I was responsible for implementing machine learning algorithms, fine-tuning hyperparameters, and assessing model performance. Additionally, I documented the project and shared insights through the Jupyter Notebook.
+- **Tech Stack:** Python, Jupyter Notebook, NumPy, Pandas, Scikit-learn, Matplotlib and Seaborn
+- **GitHub Repository:** [Project Name: Housing Price Prediction using Machine Learning](https://github.com/SachinSS96/Data_Science_Portfolio/tree/c3adb737d70692001b61d193987ac4144349c5c5/Project_housing_ML)
 
 
-### Project 2: Sales Dashboard Power Bi
+### Project Name: Sales Analysis Dashboard
 
-- **Description:** Conducted customer segmentation analysis using clustering algorithms to identify different customer groups and their characteristics.
-- **Tools:** Power Bi
-- **GitHub Repository:** [Project 2 - Sales Dashboard Power Bi]()
+- **AIM:** The aim of the Sales Analysis Dashboard project is to provide comprehensive insights and analytics. It aims to facilitate data-driven decision-making by monitoring key performance indicators, analyzing ingredient trends, and identifying  preferences.
 
-### Project 3: Predictive Modeling
-
-- **Description:** Developed a predictive model to forecast future sales based on historical data, evaluated model performance, and provided recommendations for improvement.
-- **Tools:** Python, scikit-learn, regression models.
-- **GitHub Repository:** [Project 3 - Predictive Modeling](https://github.com/yourusername/project3)
-- **Demo:** [Predictive Modeling Demo](https://yourusername.github.io/project3)
+- **Role & Responsibility:** As a team member on the project, my responsibilities included data collection, data preprocessing, and dashboard development, to identify the relevant metrics and visualizations needed to support decision-making processes. Additionally, I conducted analysis and provided actionable recommendations based on the dashboard insights.
+- **Tools:** Power BI Desktop, Power Query, DAX (Data Analysis Expressions), Power BI Service
+- **GitHub Repository:** [Project Name: Sales Analysis Dashboard](https://app.powerbi.com/links/quNv1MBx5j?ctid=bc48c598-1f31-406c-afbf-0bc00bbae465&pbi_source=linkShare)
 ## Summary and Conclusion
 
 In summary, my Data Analyst portfolio showcases a diverse range of projects that highlight my skills and expertise in data analysis and visualization. Through these projects, I have demonstrated proficiency in various programming languages, data manipulation and cleaning techniques, statistical analysis, and machine learning algorithms. I have also gained experience in working with large datasets, performing exploratory data analysis, and generating actionable insights.
