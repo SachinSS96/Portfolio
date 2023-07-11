@@ -38,15 +38,19 @@
 - **Role & Responsibility:** As a contributor to the project, my responsibilities included data collection, data preprocessing, and dashboard development, to identify the relevant metrics and visualizations needed to support decision-making processes. Additionally, I conducted analysis and provided actionable recommendations based on the dashboard insights.
 - **Tools:** Power BI Desktop, Power Query, DAX (Data Analysis Expressions), Power BI Service
 - **GitHub Repository:** [Project Name: Sales Analysis Dashboard](https://app.powerbi.com/links/quNv1MBx5j?ctid=bc48c598-1f31-406c-afbf-0bc00bbae465&pbi_source=linkShare)
-### **Project Name: Apple Store Dataset Analysis**
-**AIM:** To analyze a dataset of Apple Store apps to identify trends and insights that can be used to improve the app development process.
 
-**Role & Responsibility:**
+### **Project Name: Apple Store Dataset Analysis**
+
+**AIM:** To analyze a dataset of Apple Store apps to identify trends and insights that can be used to improve the app development process.
+- **Role & Responsibility:**
 - Identified and cleaned the data
 - Performed exploratory data analysis
 - Developed and executed statistical tests
 - Wrote a report summarizing the findings
-**Tech Stack:**  Microsoft SQL Server, Microsoft Excel
+
+- **Tech Stack:**  Microsoft SQL Server, Microsoft Excel
+- **GitHub Repository:** [Project Name: Apple Store Dataset Analysis](https://github.com/SachinSS96/Data_Science_Portfolio/blob/main/Apple%20Store%20Dataset%20and%20SQL%20code/Apple_Store.sql)
+
 
 ## Summary and Conclusion
 
