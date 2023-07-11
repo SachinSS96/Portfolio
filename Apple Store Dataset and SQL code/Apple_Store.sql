@@ -1,4 +1,4 @@
---Check the number of unique apps in both tables of Applestore
+--Check the number of unique apps in both tables of Apple store
 	SELECT COUNT(distinct id) AS Unique_app_ids from AppleStore
 
 	SELECT COUNT(distinct id) AS Unique_app_ids from description
@@ -29,13 +29,13 @@
 	ORDER BY (price / 2) * 2
 	--                              **DATA ANALYSIS**
 
-	--Determine whether paid apps have better rating than free apps
+	--Determine whether paid apps have a better rating than free apps
 SELECT CASE WHEN price > 0 THEN 'paid' ELSE 'free' END AS App_Type, 
        AVG(user_rating) AS Avg_Rating
 FROM AppleStore
 GROUP BY CASE WHEN price > 0 THEN 'paid' ELSE 'free' END ;
 
-	--Check if app with more language support have higher ratings
+	--Check if apps with more language support have higher ratings
 SELECT CASE 
            WHEN lang_num < 10 then '<10 languages'    
 		   WHEN lang_num between  10 and 30 then '10-30 languages'
@@ -70,7 +70,7 @@ group by case
 				  Else 'Long' End
 order by Avg_Rating DESC
 
--- Check top-rated app for each genre
+-- Check the top-rated apps for each genre
 select
 	prime_genre,
 	track_name,
@@ -90,5 +90,5 @@ where a.rank = 1
 	----2. apps supporting between 10 and 30  languages  have better  ratings 
 	----3. finance and books  apps have  low  ratings 
 	----4. apps with a longer description  have better ratings
-	----5. a new app	should aim for  an average  rating above 3.5
-	----6. games and entertainment have higher compettion 
+	----5. a new app should aim for  an average  rating above 3.5
+	----6. games and entertainment have higher competition 
