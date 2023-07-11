@@ -35,7 +35,7 @@
 
 - **AIM:** The aim of the Sales Analysis Dashboard project is to provide comprehensive insights and analytics. It aims to facilitate data-driven decision-making by monitoring key performance indicators, analyzing ingredient trends, and identifying  preferences.
 
-- **Role & Responsibility:** As a team member on the project, my responsibilities included data collection, data preprocessing, and dashboard development, to identify the relevant metrics and visualizations needed to support decision-making processes. Additionally, I conducted analysis and provided actionable recommendations based on the dashboard insights.
+- **Role & Responsibility:** As a contributor to the project, my responsibilities included data collection, data preprocessing, and dashboard development, to identify the relevant metrics and visualizations needed to support decision-making processes. Additionally, I conducted analysis and provided actionable recommendations based on the dashboard insights.
 - **Tools:** Power BI Desktop, Power Query, DAX (Data Analysis Expressions), Power BI Service
 - **GitHub Repository:** [Project Name: Sales Analysis Dashboard](https://app.powerbi.com/links/quNv1MBx5j?ctid=bc48c598-1f31-406c-afbf-0bc00bbae465&pbi_source=linkShare)
 ## Summary and Conclusion
