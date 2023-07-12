@@ -28,7 +28,7 @@
 - **AIM:** The project aims to develop a machine learning model that predicts housing prices based on various features and factors. By leveraging data analysis and predictive modeling techniques, the project seeks to provide accurate estimates of housing prices, aiding in decision-making for buyers, sellers, and real estate professionals.
 - **Role & Responsibility:** As a contributor to the project, I performed data preprocessing, exploratory data analysis (EDA), feature engineering, model selection, and evaluation. I was responsible for implementing machine learning algorithms, fine-tuning hyperparameters, and assessing model performance. Additionally, I documented the project and shared insights through the Jupyter Notebook.
 - **Tech Stack:** Python, Jupyter Notebook, NumPy, Pandas, Scikit-learn, Matplotlib and Seaborn
-- **GitHub Repository:** [Project Name: Housing Price Prediction using Machine Learning](https://github.com/SachinSS96/Data_Science_Portfolio/blob/c3adb737d70692001b61d193987ac4144349c5c5/Project_housing_ML/Project_housing.ipynb)
+- **GitHub Repository:** [Project Name: Housing Price Prediction using Machine Learning](https://github.com/SachinSS96/Data_Science_Portfolio/blob/main/Project_housing_ML_python/Project_housing.ipynb)
 
 
 ### **Project Name: Sales Analysis Dashboard**
