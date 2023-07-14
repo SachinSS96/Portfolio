@@ -1,8 +1,8 @@
 # Data_Science_Portfolio
 
-## Personal Skills
+## **Personal Skills**
 
-### Technical Skills
+### **Technical Skills**
 
 - **Programming Languages:** Python, SQL
 - **Data Analysis and Visualization:** pandas, NumPy, matplotlib, Microsoft Power bi 
@@ -11,7 +11,7 @@
 - **Data Cleaning and Preprocessing:** data wrangling, feature engineering
 - **Database Management:** SQL, MySQL, PostgreSQL
 
-### Soft Skills
+### **Soft Skills**
 
 - **Communication:** Effective written and verbal communication skills, ability to present complex technical concepts to non-technical stakeholders.
 - **Problem Solving:** Strong analytical and problem-solving skills, thinking critically and finding innovative solutions.
@@ -21,7 +21,7 @@
 - **Adaptability:** Flexibility to work in a fast-paced and dynamic environment, quickly adapting to new tools and technologies.
 - **Continuous Learning:** Enthusiasm for learning new concepts and staying updated with the latest trends and developments in the field of data analysis.
 
-## Projects
+## **Projects**
 
 ### **Project Name: Housing Price Prediction using Machine Learning**
 
