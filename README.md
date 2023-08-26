@@ -28,7 +28,7 @@
 - **AIM:** The project aims to develop a machine learning model that predicts housing prices based on various features and factors. By leveraging data analysis and predictive modeling techniques, the project seeks to provide accurate estimates of housing prices, aiding in decision-making for buyers, sellers, and real estate professionals.
 - **Role & Responsibility:** As a contributor to the project, I performed data preprocessing, exploratory data analysis (EDA), feature engineering, model selection, and evaluation. I was responsible for implementing machine learning algorithms, fine-tuning hyperparameters, and assessing model performance. Additionally, I documented the project and shared insights through the Jupyter Notebook.
 - **Tech Stack:** Python, Jupyter Notebook, NumPy, Pandas, Scikit-learn, Matplotlib and Seaborn
-- **GitHub Repository:** [Project Name: Housing Price Prediction using Machine Learning](https://nbviewer.org/github/SachinSS96/Data_Science_Portfolio/blob/main/Project_housing_ML_python/Project_housing.ipynb)
+- **GitHub Repository:** [Link](https://nbviewer.org/github/SachinSS96/Data_Science_Portfolio/blob/main/Project_housing_ML_python/Project_housing.ipynb)
 
 
 ### **Project Name: Sales Analysis Dashboard**
@@ -37,7 +37,7 @@
 
 - **Role & Responsibility:** As a contributor to the project, my responsibilities included data collection, data preprocessing, and dashboard development, to identify the relevant metrics and visualizations needed to support decision-making processes. Additionally, I conducted analysis and provided actionable recommendations based on the dashboard insights.
 - **Tools:** Power BI Desktop, Power Query, DAX (Data Analysis Expressions), Power BI Service
-- **GitHub Repository:** [Project Name: Sales Analysis Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMThmZjk0MGUtNzA3Yy00MTk3LTlmMGEtZjRhMWU4YzA3YmY3IiwidCI6ImJjNDhjNTk4LTFmMzEtNDA2Yy1hZmJmLTBiYzAwYmJhZTQ2NSJ9&pageName=ReportSectionbdb2d2ebb0642946ef37)
+- **GitHub Repository:** [Link](https://app.powerbi.com/view?r=eyJrIjoiMThmZjk0MGUtNzA3Yy00MTk3LTlmMGEtZjRhMWU4YzA3YmY3IiwidCI6ImJjNDhjNTk4LTFmMzEtNDA2Yy1hZmJmLTBiYzAwYmJhZTQ2NSJ9&pageName=ReportSectionbdb2d2ebb0642946ef37)
 
 ### **Project Name: Apple Store Dataset Analysis**
 
@@ -49,7 +49,7 @@
    - Wrote a report summarizing the findings
 
 - **Tech Stack:**  Microsoft SQL Server, Microsoft Excel.
-- **GitHub Repository:** [Project Name: Apple Store Dataset Analysis](https://github.com/SachinSS96/Data_Science_Portfolio/blob/a85aad41940bae210b49ac005e9c97e229435a13/Apple%20Store%20Dataset%20and%20SQL%20code/applestore_SQL.pdf)
+- **GitHub Repository:** [Link](https://github.com/SachinSS96/Data_Science_Portfolio/blob/a85aad41940bae210b49ac005e9c97e229435a13/Apple%20Store%20Dataset%20and%20SQL%20code/applestore_SQL.pdf)
 
 
 ## Summary and Conclusion
