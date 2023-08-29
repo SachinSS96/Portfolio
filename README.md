@@ -49,7 +49,7 @@
    - Wrote a report summarizing the findings
 
 - **Tech Stack:**  Microsoft SQL Server, Microsoft Excel.
-- **GitHub Repository:** [Link](https://github.com/SachinSS96/Data_Science_Portfolio/blob/a85aad41940bae210b49ac005e9c97e229435a13/Apple%20Store%20Dataset%20and%20SQL%20code/applestore_SQL.pdf)
+- **GitHub Repository:** [Link](https://github.com/SachinSS96/Data_Science_Portfolio/blob/34c798aba4e17c608c2641f37ec89d18caee71fc/Apple%20Store%20Dataset%20and%20SQL%20code/applestore_SQL.pdf)
 
 
 ## Summary and Conclusion
