@@ -8,6 +8,7 @@
 - **Machine Learning:** sci-kit-learn, decision trees, clustering algorithms
 - **Data Cleaning and Preprocessing:** data wrangling, feature engineering
 - **Database Management:** SQL, MySQL, PostgreSQL
+
 ### **Soft Skills**
 - **Communication:** Effective written and verbal communication skills, ability to present complex technical concepts to non-technical stakeholders.
 - **Problem Solving:** Strong analytical and problem-solving skills, thinking critically and finding innovative solutions.
