@@ -46,7 +46,7 @@ Utilized pandas for data manipulation and generated meaningful.
 
 **Tech Stack:** Python, Jupyter Notebook, NumPy, Pandas,  Matplotlib
 
-**GitHub Repository:** [Link](https://nbviewer.org/github/SachinSS96/Data_Science_Portfolio/blob/6091d452a28b97e91f2095e819213f45266555dc/netflix-eda-project/netflix-eda-project.ipynb)
+**GitHub Repository:** [Link](https://nbviewer.org/github/SachinSS96/Data_Science_Portfolio/blob/972082312447d925b76dc820895e07c7300c73bc/netflix-eda-project/netflix-eda-project.ipynb)
 
 
 ### **Project Name: Sales Analysis Dashboard**
