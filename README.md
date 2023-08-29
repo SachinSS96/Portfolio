@@ -35,7 +35,8 @@
 
 ### **Project Name: Netflix- EDA**
 
-**AIM:**  - Insight Generation: By analyzing the dataset, we can identify trends in terms of content types, release dates, genres, and more. These insights can provide valuable information to both viewers and content creators.
+**AIM:**  
+- Insight Generation: By analyzing the dataset, we can identify trends in terms of content types, release dates, genres, and more. These insights can provide valuable information to both viewers and content creators.
 - Content Strategy: For content creators, understanding popular genres and content types can help guide their production strategies.
 - User Engagement: For viewers, this analysis can reveal interesting patterns, enabling them to discover content that aligns with their preferences.
 
