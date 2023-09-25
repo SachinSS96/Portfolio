@@ -5,7 +5,6 @@
 - **Programming Languages:** Python, SQL
 - **Data Analysis and Visualization:** pandas, NumPy, matplotlib, Microsoft Power bi 
 - **Statistical Analysis:** hypothesis testing, regression analysis, A/B testing
-- **Machine Learning:** sci-kit-learn, decision trees, clustering algorithms
 - **Data Cleaning and Preprocessing:** data wrangling, feature engineering
 - **Database Management:** SQL, MySQL, PostgreSQL
 
