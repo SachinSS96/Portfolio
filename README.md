@@ -26,7 +26,8 @@
 
 ## Projects
 
-### Project Name: Apple Store Dataset Analysis
+<h3 align="center">Project Name: Apple Store Dataset Analysis</h3>
+
 **Aim:** Analyzed Apple Store apps dataset to improve app development.
 
 **Role & Responsibility:**
@@ -35,7 +36,8 @@
 - **Tech Stack:** Microsoft SQL Server, Microsoft Excel
 - [GitHub Repository](https://github.com/SachinSS96/Data_Science_Portfolio/blob/0362dfd913ebb5f59fbf14d74d626a6800de4d5c/Apple%20Store%20Dataset%20and%20SQL%20code/applestore_SQL.pdf)
 
-### Project Name: Netflix-EDA
+<h3 align="center"> Project Name: Netflix-EDA</h3>
+
 **Aim:**
 - **Insight Generation:** By analyzing the dataset, we can identify trends in terms of content types, release dates, genres, and more. These insights can provide valuable information to both viewers and content creators.
 - **Content Strategy:** For content creators, understanding popular genres and content types can help guide their production strategies.
@@ -48,13 +50,14 @@
 - **Tech Stack:** Python, Jupyter Notebook, NumPy, Pandas, Matplotlib
 - [GitHub Repository](https://nbviewer.org/github/SachinSS96/Data_Science_Portfolio/blob/972082312447d925b76dc820895e07c7300c73bc/netflix-eda-project/netflix-eda-project.ipynb)
 
-### Project Name: Sales Analysis Dashboard
+<h3 align="center">Project Name: Sales Analysis Dashboard</h3>
+
 **Role & Responsibility:**
 - Contributed to a project providing data-driven insights through dashboard analytics.
 - Collected, preprocessed data, and developed dashboards using Power BI.
 - Analyzed key performance indicators and ingredient trends, offered actionable recommendations.
 - **Tech Stack:** Power BI Desktop, Power Query, DAX, Power BI Service
-- [GitHub Repository](https://app.powerbi.com/view?r=eyJrIjoiMThmZjk0MGUtNzA3Yy00MTk3LTlmMGEtZjRhMWU4YzA3YmY3IiwidCI6ImJjNDhjNTk4LTFmMzEtNDA2Yy1ahZmJmLTBiYzAwYmJahZTQ2NSJ9&pageName=ReportSectionbdb2d2ebb0642946ef37)
+- [GitHub Repository](https://app.powerbi.com/view?r=eyJrIjoiMThmZjk0MGUtNzA3Yy00MTk3LTlmMGEtZjRhMWU4YzA3YmY3IiwidCI6ImJjNDhjNTk4LTFmMzEtNDA2Yy1hZmJmLTBiYzAwYmJhZTQ2NSJ9&pageName=ReportSectionbdb2d2ebb0642946ef37)
 
 ## Professional Summary
 Welcome to my **Data Analyst** portfolio, where I showcase my adeptness in **data analysis** and **visualization**. Proficient in programming languages, I excel in **data manipulation** and **statistical analysis**. My experience encompasses handling sizable datasets, performing comprehensive **exploratory data analysis**, and deriving **actionable insights**.
