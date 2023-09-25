@@ -1,13 +1,13 @@
-# Sachin Sharma
+<center> # Data analyst-Portfolio </center>
 
-### **Technical Skills**
+<center>## **Technical Skills**</center>
 - **Programming Languages:** Python, SQL
 - **Data Analysis and Visualization:** pandas, NumPy, matplotlib, Microsoft Power bi 
 - **Statistical Analysis:** hypothesis testing, regression analysis, A/B testing
 - **Data Cleaning and Preprocessing:** data wrangling, feature engineering
 - **Database Management:** T-SQL, MySQL, MSSQL
 
-### **Soft Skills**
+<center>## **Soft Skills**</center>
 - **Communication:** Effective written and verbal communication skills, ability to present complex technical concepts to non-technical stakeholders.
 - **Problem Solving:** Strong analytical and problem-solving skills, thinking critically and finding innovative solutions.
 - **Attention to Detail:** Meticulous in data analysis, ensuring accuracy and quality of results.
@@ -16,8 +16,8 @@
 - **Adaptability:** Flexibility to work in a fast-paced and dynamic environment, quickly adapting to new tools and technologies.
 - **Continuous Learning:** Enthusiasm for learning new concepts and staying updated with the latest trends and developments in the field of data analysis.
 
-## **Projects**
-### **Project Name: Apple Store Dataset Analysis**
+<center>## **Projects**
+### **Project Name: Apple Store Dataset Analysis**</center>
 
 **AIM:** - Analyzed Apple Store apps dataset to improve appdevelopment.
 
