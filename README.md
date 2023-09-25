@@ -1,6 +1,6 @@
 
 
-## **Personal Skills**
+### **Personal Skills**
 ### **Technical Skills**
 - **Programming Languages:** Python, SQL
 - **Data Analysis and Visualization:** pandas, NumPy, matplotlib, Microsoft Power bi 
