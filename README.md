@@ -1,4 +1,4 @@
-# <div align="center">Data Analyst-Portfolio</div>
+<h1 align="center">Data Analyst-Portfolio</h1>
 
 ## Technical Skills
 - **Programming Languages:** Python, SQL
@@ -24,9 +24,9 @@
 - **Adaptability:** Flexibility to work in a fast-paced and dynamic environment, quickly adapting to new tools and technologies.
 - **Continuous Learning:** Enthusiasm for learning new concepts and staying updated with the latest trends and developments in the field of data analysis.
 
-## <div align="center">Projects</div>
+## Projects
 
-### <div align="center">Project Name: Apple Store Dataset Analysis</div>
+### Project Name: Apple Store Dataset Analysis
 **Aim:** Analyzed Apple Store apps dataset to improve app development.
 
 **Role & Responsibility:**
@@ -35,7 +35,7 @@
 - **Tech Stack:** Microsoft SQL Server, Microsoft Excel
 - [GitHub Repository](https://github.com/SachinSS96/Data_Science_Portfolio/blob/0362dfd913ebb5f59fbf14d74d626a6800de4d5c/Apple%20Store%20Dataset%20and%20SQL%20code/applestore_SQL.pdf)
 
-### <div align="center">Project Name: Netflix-EDA</div>
+### Project Name: Netflix-EDA
 **Aim:**
 - **Insight Generation:** By analyzing the dataset, we can identify trends in terms of content types, release dates, genres, and more. These insights can provide valuable information to both viewers and content creators.
 - **Content Strategy:** For content creators, understanding popular genres and content types can help guide their production strategies.
@@ -48,7 +48,7 @@
 - **Tech Stack:** Python, Jupyter Notebook, NumPy, Pandas, Matplotlib
 - [GitHub Repository](https://nbviewer.org/github/SachinSS96/Data_Science_Portfolio/blob/972082312447d925b76dc820895e07c7300c73bc/netflix-eda-project/netflix-eda-project.ipynb)
 
-### <div align="center">Project Name: Sales Analysis Dashboard</div>
+### Project Name: Sales Analysis Dashboard
 **Role & Responsibility:**
 - Contributed to a project providing data-driven insights through dashboard analytics.
 - Collected, preprocessed data, and developed dashboards using Power BI.
