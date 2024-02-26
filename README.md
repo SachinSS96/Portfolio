@@ -55,9 +55,9 @@
 **Role & Responsibility:**
 - Contributed to a project providing data-driven insights through dashboard analytics.
 - Collected, preprocessed data, and developed dashboards using Power BI.
-- Analyzed key performance indicators and ingredient trends, offered actionable recommendations.
+- Analyzed key performance indicators and ingredient trends.
 - **Tech Stack:** Power BI Desktop, Power Query, DAX, Power BI Service
-- [GitHub Repository](https://app.powerbi.com/view?r=eyJrIjoiMThmZjk0MGUtNzA3Yy00MTk3LTlmMGEtZjRhMWU4YzA3YmY3IiwidCI6ImJjNDhjNTk4LTFmMzEtNDA2Yy1hZmJmLTBiYzAwYmJhZTQ2NSJ9&pageName=ReportSectionbdb2d2ebb0642946ef37)
+- [GitHub Repository](https://app.powerbi.com/view?r=eyJrIjoiMzc1NjU4NWEtN2QxNS00NmM3LTg5Y2EtNDY1N2JkNTljYWFiIiwidCI6ImJjNDhjNTk4LTFmMzEtNDA2Yy1hZmJmLTBiYzAwYmJhZTQ2NSJ9)
 
 ## Professional Summary
 Welcome to my **Data Analyst** portfolio, where I showcase my adeptness in **data analysis** and **visualization**. Proficient in programming languages, I excel in **data manipulation** and **statistical analysis**. My experience encompasses handling sizable datasets, performing comprehensive **exploratory data analysis**, and deriving **actionable insights**.
