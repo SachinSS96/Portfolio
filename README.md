@@ -4,7 +4,7 @@
 - **Programming Languages:** Python, SQL
 - **Data Analysis and Visualization:** pandas, NumPy, matplotlib, Microsoft Power BI 
 - **Statistical Analysis:** hypothesis testing, regression analysis, A/B testing
-- **Data Cleaning and Preprocessing:** data wrangling, feature engineering
+- **Data Cleaning and Preprocessing:** Microsoft Excel, data wrangling, feature engineering
 - **Database Management:** T-SQL, MySQL, MSSQL
  <div align="center">
   <code><a href="https://www.python.org/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
