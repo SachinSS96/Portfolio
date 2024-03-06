@@ -38,6 +38,15 @@ I am excited to share my portfolio as a Data Analyst 👨‍💼, where I demons
 **Tech Stack:** Microsoft SQL Server, Microsoft Excel
   [report link](https://nbviewer.org/github/SachinSS96/Data_Science_Portfolio/blob/833496c7146e0d1443d3c521e39054aa6c20fbf7/SQL/applestore_SQL/Apple%20Storeppt.pdf)
 
+<h3 align="center">Customer segmentation Analysis</h3>
+
+**Description**: Employed PCA and K-Means Clustering on customer data to segment customers based on segmentation data.
+
+**Responsibilities**: Led data preprocessing and analysis, applying *PCA* for feature extraction and *K-Means Clustering* for customer grouping.
+
+**Achievements**: Identified distinct customer segments, enabling targeted marketing efforts and contributing to further analysis of customers using product purchasing data 
+
+**Tools**: python, sci-kit-learn, PCA, K-Means Clustering.
 
 <h3 align="center">Sales Analysis Dashboard</h3>
 
@@ -47,14 +56,12 @@ I am excited to share my portfolio as a Data Analyst 👨‍💼, where I demons
 
 **Achievements**: Successfully forecasted future sales trends, identified growth opportunities, and recommended strategies for revenue optimization. Contributed to a 10% increase in sales within six months of implementing data-driven recommendations.
 
-**Tools**: Excel, Tableau, statistical modeling, data visualization techniques.
-
 **Tech Stack:** Power BI Desktop, Power Query, DAX, Power BI Service
 [Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiMzc1NjU4NWEtN2QxNS00NmM3LTg5Y2EtNDY1N2JkNTljYWFiIiwidCI6ImJjNDhjNTk4LTFmMzEtNDA2Yy1hZmJmLTBiYzAwYmJhZTQ2NSJ9&pageName=ReportSection6194b5b20218291ed003)
 
 Two of my standout projects are Apple Store Dataset Analysis 📊 and Sales Analysis Dashboard 📈. They reflect my ability to handle sizable datasets, perform comprehensive exploratory data analysis and derive actionable insights.
 
-Feel free to explore these projects (links provided) that showcase my dedication towards delivering high-caliber results within stringent deadlines.
+Feel free to explore these projects (links provided) that showcase my dedication towards delivering high-calibre results within stringent deadlines.
 
 With an unquenchable thirst for learning new concepts in the field of data analysis and staying updated with latest trends 🔝 - I look forward to leveraging my skills further!
 
