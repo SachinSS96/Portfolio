@@ -3,11 +3,11 @@
 
 I am excited to share my portfolio as a Data Analyst 👨‍💼, where I demonstrate proficiency in Python 🐍 and SQL for data manipulation and visualization. My technical skills include:
 ## Technical Skills
-✅ Data Analysis using pandas, NumPy
-✅ Visualization with matplotlib, Microsoft Power BI
-✅ Statistical Analysis: hypothesis testing, regression analysis, A/B testing
-✅ Data Cleaning with Advanced Excel 
-✅ Database Management: MySQL, MSSQL
+- ✅ Data Analysis using pandas, NumPy
+- ✅ Visualization with matplotlib, Microsoft Power BI
+- ✅ Statistical Analysis: hypothesis testing, regression analysis, A/B testing
+- ✅ Data Cleaning with Advanced Excel 
+- ✅ Database Management: MySQL, MSSQL
 
  <div align="center">
   <code><a href="https://www.python.org/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
@@ -19,11 +19,11 @@ I am excited to share my portfolio as a Data Analyst 👨‍💼, where I demons
 </div>
 
 ## On the soft skills front 💡:
-✔️ Effective Communication 
-✔️ Problem Solving 
-✔️ Attention to Detail 
-✔️ Collaboration 
-✔️ Time Management 
+- ✔️ Effective Communication 
+- ✔️ Problem Solving 
+- ✔️ Attention to Detail 
+- ✔️ Collaboration 
+- ✔️ Time Management 
 
 ## Projects
 
