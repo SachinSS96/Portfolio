@@ -34,7 +34,7 @@
 - Identified trends, cleaned data, performed exploratory data analysis, and executed statistical tests.
 - Wrote a comprehensive report summarizing findings.
 - **Tech Stack:** Microsoft SQL Server, Microsoft Excel
-- [GitHub Repository](https://github.com/SachinSS96/Data_Science_Portfolio/blob/833496c7146e0d1443d3c521e39054aa6c20fbf7/SQL/applestore_SQL/Apple%20Storeppt.pdf)
+- [report link](https://github.com/SachinSS96/Data_Science_Portfolio/blob/833496c7146e0d1443d3c521e39054aa6c20fbf7/SQL/applestore_SQL/Apple%20Storeppt.pdf)
 
 
 <h3 align="center">Project Name: Sales Analysis Dashboard</h3>
