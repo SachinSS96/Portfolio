@@ -1,11 +1,14 @@
-<h1 align="center">Data Analyst-Portfolio</h1>
+<h1 align="center">Portfolio</h1>
+👋 Hello LinkedIn Community! 
 
+I am excited to share my portfolio as a Data Analyst 👨‍💼, where I demonstrate proficiency in Python 🐍 and SQL for data manipulation and visualization. My technical skills include:
 ## Technical Skills
-- **Programming Languages:** Python, SQL
-- **Data Analysis and Visualization:** pandas, NumPy, matplotlib, Microsoft Power BI 
-- **Statistical Analysis:** hypothesis testing, regression analysis, A/B testing
-- **Data Cleaning and Preprocessing:** Advance Excel, data wrangling, feature engineering
-- **Database Management:**  MySQL, MSSQL
+✅ Data Analysis using pandas, NumPy
+✅ Visualization with matplotlib, Microsoft Power BI
+✅ Statistical Analysis: hypothesis testing, regression analysis, A/B testing
+✅ Data Cleaning with Advanced Excel 
+✅ Database Management: MySQL, MSSQL
+
  <div align="center">
   <code><a href="https://www.python.org/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
   <code><a href="https://jupyter.org/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
@@ -15,14 +18,12 @@
   <code><a href="https://powerbi.microsoft.com/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"></a></code>
 </div>
 
-## Soft Skills
-- **Communication:** Effective written and verbal communication skills, ability to present complex technical concepts to non-technical stakeholders.
-- **Problem Solving:** Strong analytical and problem-solving skills, thinking critically and finding innovative solutions.
-- **Attention to Detail:** Meticulous in data analysis, ensuring accuracy and quality of results.
-- **Collaboration:** Team player, experienced in collaborating with cross-functional teams to achieve project goals.
-- **Time Management:** Excellent organizational skills, ability to prioritize tasks and meet deadlines.
-- **Adaptability:** Flexibility to work in a fast-paced and dynamic environment, quickly adapting to new tools and technologies.
-- **Continuous Learning:** Enthusiasm for learning new concepts and staying updated with the latest trends and developments in the field of data analysis.
+## On the soft skills front 💡:
+✔️ Effective Communication 
+✔️ Problem Solving 
+✔️ Attention to Detail 
+✔️ Collaboration 
+✔️ Time Management 
 
 ## Projects
 
@@ -44,13 +45,14 @@
 - Collected, preprocessed data, and developed dashboards using Power BI.
 - Analyzed key performance indicators and ingredient trends.
 - **Tech Stack:** Power BI Desktop, Power Query, DAX, Power BI Service
-- [Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiMzc1NjU4NWEtN2QxNS00NmM3LTg5Y2EtNDY1N2JkNTljYWFiIiwidCI6ImJjNDhjNTk4LTFmMzEtNDA2Yy1hZmJmLTBiYzAwYmJhZTQ2NSJ9)
+- [Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiMzc1NjU4NWEtN2QxNS00NmM3LTg5Y2EtNDY1N2JkNTljYWFiIiwidCI6ImJjNDhjNTk4LTFmMzEtNDA2Yy1hZmJmLTBiYzAwYmJhZTQ2NSJ9&pageName=ReportSection6194b5b20218291ed003)
 
-## Professional Summary
-Welcome to my **Data Analyst** portfolio, where I showcase my adeptness in **data analysis** and **visualization**. Proficient in programming languages, I excel in **data manipulation** and **statistical analysis**. My experience encompasses handling sizable datasets, performing comprehensive **exploratory data analysis**, and deriving **actionable insights**.
+Two of my standout projects are Apple Store Dataset Analysis 📊 and Sales Analysis Dashboard 📈. They reflect my ability to handle sizable datasets, perform comprehensive exploratory data analysis and derive actionable insights.
 
-Adept in **statistical analysis**, **hypothesis evaluation**, and meticulous **A/B testing**, I excel in articulating intricate technical concepts while fostering seamless collaboration with stakeholders. I bring a meticulous attention to detail, a proactive approach, and a steadfast commitment to delivering high-caliber results. My proficiency in multitasking enables me to manage concurrent projects effectively and meet stringent deadlines.
+Feel free to explore these projects (links provided) that showcase my dedication towards delivering high-caliber results within stringent deadlines.
 
-My passion for **data analysis** is paralleled by a thirst for continuous learning. I am eager to leverage my skills to drive business growth and facilitate informed decision-making. As you peruse my portfolio, you'll find a collection of projects that reflect my dedication to **data-driven excellence**.
+With an unquenchable thirst for learning new concepts in the field of data analysis and staying updated with latest trends 🔝 - I look forward to leveraging my skills further!
 
-Thank you for considering my portfolio. I am enthusiastic about potential opportunities and anticipate fruitful discussions ahead.
+Thank you for your time! Looking forward to potential opportunities and fruitful discussions ahead 🤝
+
+#DataAnalysis #Python #SQL #PowerBI #PortfolioReview
