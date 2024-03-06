@@ -34,7 +34,8 @@ I am excited to share my portfolio as a Data Analyst 👨‍💼, where I demons
 **Responsibilities**: Developed SQL queries, identified trends, cleaned data, created visualizations, prepared reports, and collaborated with team members.
 
 **Achievements**: Identified factors influencing app ratings, recommended improvements, highlighted popular genres, and contributed to data-driven decision-making.
-- **Tech Stack:** Microsoft SQL Server, Microsoft Excel
+
+**Tech Stack:** Microsoft SQL Server, Microsoft Excel
   [report link](https://nbviewer.org/github/SachinSS96/Data_Science_Portfolio/blob/833496c7146e0d1443d3c521e39054aa6c20fbf7/SQL/applestore_SQL/Apple%20Storeppt.pdf)
 
 
