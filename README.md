@@ -44,7 +44,7 @@ I am excited to share my portfolio as a Data Analyst 👨‍💼, where I demons
 
 **Responsibilities**: Led data preprocessing and analysis, applying *PCA* for feature extraction and *K-Means Clustering* for customer grouping.
 
-**Achievements**: Identified distinct customer segments, enabling targeted marketing efforts and contributing to further analysis of customers using product purchasing data 
+**Achievements**: Identified distinct customer segments, enabling targeted marketing efforts and contributing to further analysis of Customer Segmentation using product purchasing data 
 
 **Tech Stack**: python, sci-kit-learn, PCA, K-Means Clustering.[Notebook Link](https://nbviewer.org/github/SachinSS96/Data_Science_Portfolio/blob/main/Python/Customer%20Analytics/Customer%20Segmentation%20%20Analytics.ipynb)
 
