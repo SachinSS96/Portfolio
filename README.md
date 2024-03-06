@@ -46,7 +46,7 @@ I am excited to share my portfolio as a Data Analyst 👨‍💼, where I demons
 
 **Achievements**: Identified distinct customer segments, enabling targeted marketing efforts and contributing to further analysis of customers using product purchasing data 
 
-**Tools**: python, sci-kit-learn, PCA, K-Means Clustering.
+**Tech Stack**: python, sci-kit-learn, PCA, K-Means Clustering.[Notebook Link](https://nbviewer.org/github/SachinSS96/Data_Science_Portfolio/blob/main/Python/Customer%20Analytics/Customer%20Segmentation%20%20Analytics.ipynb)
 
 <h3 align="center">Sales Analysis Dashboard</h3>
 
