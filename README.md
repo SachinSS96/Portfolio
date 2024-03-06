@@ -1,4 +1,4 @@
-<h1 align="center">Portfolio</h1>
+<h1 align="left">Portfolio</h1>
 👋 Hello! 
 
 I am excited to share my portfolio as a Data Analyst 👨‍💼, where I demonstrate proficiency in Python 🐍 and SQL for data manipulation and visualization. My technical skills include:
