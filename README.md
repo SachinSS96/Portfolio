@@ -25,7 +25,7 @@ I am excited to share my portfolio as a Data Analyst 👨‍💼, where I demons
 - ✔️ Collaboration 
 - ✔️ Time Management 
 
-## Projects
+<h2 align="left">Projects</h2>
 
 <h3 align="center"> Apple Store Dataset Analysis</h3>
 
