@@ -1,5 +1,5 @@
 <h1 align="center">Portfolio</h1>
-👋 Hello LinkedIn Community! 
+👋 Hello! 
 
 I am excited to share my portfolio as a Data Analyst 👨‍💼, where I demonstrate proficiency in Python 🐍 and SQL for data manipulation and visualization. My technical skills include:
 ## Technical Skills
