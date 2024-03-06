@@ -27,7 +27,7 @@ I am excited to share my portfolio as a Data Analyst 👨‍💼, where I demons
 
 ## Projects
 
-<h3 align="center">Project Name: Apple Store Dataset Analysis</h3>
+<h3 align="center"> **Apple Store Dataset Analysis**</h3>
 
 **Aim:** Analyzed Apple Store apps dataset to improve app development.
 
@@ -38,7 +38,7 @@ I am excited to share my portfolio as a Data Analyst 👨‍💼, where I demons
 - [report link](https://nbviewer.org/github/SachinSS96/Data_Science_Portfolio/blob/833496c7146e0d1443d3c521e39054aa6c20fbf7/SQL/applestore_SQL/Apple%20Storeppt.pdf)
 
 
-<h3 align="center">Project Name: Sales Analysis Dashboard</h3>
+<h3 align="center">  **Sales Analysis Dashboard**</h3>
 
 **Role & Responsibility:**
 - Contributed to a project providing data-driven insights through dashboard analytics.
