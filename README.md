@@ -41,12 +41,16 @@ I am excited to share my portfolio as a Data Analyst 👨‍💼, where I demons
 
 <h3 align="center">Sales Analysis Dashboard</h3>
 
-**Role & Responsibility:**
-- Contributed to a project providing data-driven insights through dashboard analytics.
-- Collected, preprocessed data, and developed dashboards using Power BI.
-- Analyzed key performance indicators and ingredient trends.
-- **Tech Stack:** Power BI Desktop, Power Query, DAX, Power BI Service
-- [Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiMzc1NjU4NWEtN2QxNS00NmM3LTg5Y2EtNDY1N2JkNTljYWFiIiwidCI6ImJjNDhjNTk4LTFmMzEtNDA2Yy1hZmJmLTBiYzAwYmJhZTQ2NSJ9&pageName=ReportSection6194b5b20218291ed003)
+**Description**: Conducted in-depth analysis of historical sales data spanning 2011 to 2014 for a multinational company. Utilized various statistical techniques to uncover trends, patterns, and performance metrics, enabling data-driven decision-making.
+
+**Responsibilities**: Led data collection, cleaning, and analysis efforts. Developed forecasting models, visualized sales trends, and presented actionable insights to stakeholders. Collaborated with cross-functional teams to ensure alignment with business objectives.
+
+**Achievements**: Successfully forecasted future sales trends, identified growth opportunities, and recommended strategies for revenue optimization. Contributed to a 10% increase in sales within six months of implementing data-driven recommendations.
+
+**Tools**: Excel, Tableau, statistical modeling, data visualization techniques.
+
+**Tech Stack:** Power BI Desktop, Power Query, DAX, Power BI Service
+[Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiMzc1NjU4NWEtN2QxNS00NmM3LTg5Y2EtNDY1N2JkNTljYWFiIiwidCI6ImJjNDhjNTk4LTFmMzEtNDA2Yy1hZmJmLTBiYzAwYmJhZTQ2NSJ9&pageName=ReportSection6194b5b20218291ed003)
 
 Two of my standout projects are Apple Store Dataset Analysis 📊 and Sales Analysis Dashboard 📈. They reflect my ability to handle sizable datasets, perform comprehensive exploratory data analysis and derive actionable insights.
 
