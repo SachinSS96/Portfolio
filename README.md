@@ -2,11 +2,12 @@
 
 I am excited to share my portfolio as a Data Analyst 👨‍💼, where I demonstrate proficiency in Python 🐍 and SQL for data manipulation and visualization. My technical skills include:
 ## Technical Skills
-- ✅ Data Analysis using pandas, NumPy
-- ✅ Visualization with matplotlib, Microsoft Power BI
+- ✅ Data Analysis using pandas, NumPy, scikit-learn
+- ✅ Visualization with matplotlib, Seaborn, Microsoft Power BI 
 - ✅ Statistical Analysis: hypothesis testing, regression analysis, A/B testing
 - ✅ Data Cleaning with Advanced Excel 
 - ✅ Database Management: MySQL, MSSQL
+- ✅ Cloud Computing Basics: AWS S3, Snowflake
 
  <div align="center">
   <code><a href="https://www.python.org/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
@@ -26,16 +27,26 @@ I am excited to share my portfolio as a Data Analyst 👨‍💼, where I demons
 
 <h2 align="left">Projects</h2>
 
-<h3 align="center"> Apple Store Dataset Analysis</h3>
+<h3 align="center"> Ad-hoc Data Analysis </h3> 
 
-**Description**: Analyzed Apple Store dataset using SQL queries to extract insights on app ratings, genres, and user engagement. Provided recommendations for optimizing app performance and enhancing user experience.
+**Data Pipeline**: Constructed an end-to-end pipeline using AWS S3 and Snowflake for seamless data storage and analysis.
 
-**Responsibilities**: Developed SQL queries, identified trends, cleaned data, created visualizations, and prepared reports.
+**Data Cleaning**: Implemented SQL-based cleaning processes to ensure data integrity before ingestion.
 
-**Achievements**: Identified factors  and insights influencing app ratings, recommended improvements, highlighted popular genres, and contributed to data-driven decision-making.
+**Visualization**: Created dynamic dashboards in Power BI, enabling stakeholders to make data-driven decisions.
 
-**Tech Stack:** Microsoft SQL Server, Microsoft Excel
-  [report link](https://nbviewer.org/github/SachinSS96/Portfolio/blob/main/SQL/applestore_SQL/Apple%20Storeppt.pdf)
+[link](https://app.powerbi.com/view?r=eyJrIjoiODc5YTg5Y2YtNzA3NC00ODIzLTkwNTQtZjM1ZmNkZDliNjlhIiwidCI6ImJjNDhjNTk4LTFmMzEtNDA2Yy1hZmJmLTBiYzAwYmJhZTQ2NSJ9)
+
+<h3 align="center">Healthcare Cost Analysis Using Insurance Data </h3>
+
+**Overview**: Analyzed insurance data to understand factors affecting healthcare costs. Conducted data cleaning, exploratory analysis, and hypothesis testing to derive insights.
+
+**Methods and Techniques**: Outlier detection, hypothesis testing (t-tests), visualization techniques.
+
+**Results and Insights**: Identified correlations between age and charges, as well as differences in charges between smokers and non-smokers. Provided recommendations for promoting healthy living and awareness around smoking cessation.
+
+**Role and Contribution**: Led data analysis, performed statistical tests, and generated visualizations to communicate findings effectively.
+ [Link](https://nbviewer.org/github/SachinSS96/Portfolio/blob/main/Python/Insurance/Insurance_EDA_Hypothesis_Testing.ipynb)
 
 <h3 align="center">Customer Segmentation Analysis</h3>
 
@@ -45,22 +56,11 @@ I am excited to share my portfolio as a Data Analyst 👨‍💼, where I demons
 
 **Achievements**: Identified distinct customer segments, enabling targeted marketing efforts and contributing to further analysis of Customer Segmentation using product purchasing data 
 
-**Tech Stack**: python, sci-kit-learn, PCA, K-Means Clustering.[Notebook Link](https://nbviewer.org/github/SachinSS96/Portfolio/blob/main/Python/Customer%20Analytics/Customer%20Segmentation%20%20Analytics.ipynb)
-
-<h3 align="center">Sales Analysis Dashboard</h3>
-
-**Description**: Conducted in-depth analysis of historical sales data spanning 2011 to 2014 for a multinational company and utilized various statistical techniques to uncover trends, patterns, and performance metrics, enabling data-driven decision-making.
-
-**Responsibilities**: Led data collection, cleaning, and analysis efforts. Developed forecasting models, visualized sales trends, and presented actionable insights to stakeholders. Collaborated with cross-functional teams to ensure alignment with business objectives.
-
-**Achievements**: Successfully forecasted future sales trends, identified growth opportunities, and recommended strategies for revenue optimization. Contributed to a 10% increase in sales within six months of implementing data-driven recommendations.
-
-**Tech Stack:** Power BI Desktop, Power Query, DAX, Power BI Service
-[Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiMzc1NjU4NWEtN2QxNS00NmM3LTg5Y2EtNDY1N2JkNTljYWFiIiwidCI6ImJjNDhjNTk4LTFmMzEtNDA2Yy1hZmJmLTBiYzAwYmJhZTQ2NSJ9&pageName=ReportSection6194b5b20218291ed003)
+**Tech Stack**: python, sci-kit-learn, PCA, K-Means Clustering.
+[Notebook Link](https://nbviewer.org/github/SachinSS96/Portfolio/blob/main/Python/Customer%20Analytics/Customer%20Segmentation%20%20Analytics.ipynb)
 
 
 
-Two of my standout projects are Apple Store Dataset Analysis 📊 and Sales Analysis Dashboard 📈. They reflect my ability to handle sizable datasets, perform comprehensive exploratory data analysis and derive actionable insights.
 
 Feel free to explore these projects (links provided) that showcase my dedication towards delivering high-calibre results within stringent deadlines.
 
