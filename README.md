@@ -27,7 +27,7 @@ I am excited to share my portfolio as a Data Analyst 👨‍💼, where I demons
 
 <h2 align="left">Projects</h2>
 
-<h3 align="center"> Ad-hoc Data Analysis </h3> 
+###  [Ad-hoc Data Analysis](https://app.powerbi.com/view?r=eyJrIjoiODc5YTg5Y2YtNzA3NC00ODIzLTkwNTQtZjM1ZmNkZDliNjlhIiwidCI6ImJjNDhjNTk4LTFmMzEtNDA2Yy1hZmJmLTBiYzAwYmJhZTQ2NSJ9)
 
 **Data Pipeline**: Constructed an end-to-end pipeline using AWS S3 and Snowflake for seamless data storage and analysis.
 
@@ -35,9 +35,9 @@ I am excited to share my portfolio as a Data Analyst 👨‍💼, where I demons
 
 **Visualization**: Created dynamic dashboards in Power BI, enabling stakeholders to make data-driven decisions.
 
-[link](https://app.powerbi.com/view?r=eyJrIjoiODc5YTg5Y2YtNzA3NC00ODIzLTkwNTQtZjM1ZmNkZDliNjlhIiwidCI6ImJjNDhjNTk4LTFmMzEtNDA2Yy1hZmJmLTBiYzAwYmJhZTQ2NSJ9)
 
-<h3 align="center">Healthcare Cost Analysis Using Insurance Data </h3>
+
+### [Healthcare Cost Analysis Using Insurance Data](https://nbviewer.org/github/SachinSS96/Portfolio/blob/main/Python/Insurance/Insurance_EDA_Hypothesis_Testing.ipynb)
 
 **Overview**: Analyzed insurance data to understand factors affecting healthcare costs. Conducted data cleaning, exploratory analysis, and hypothesis testing to derive insights.
 
@@ -46,9 +46,9 @@ I am excited to share my portfolio as a Data Analyst 👨‍💼, where I demons
 **Results and Insights**: Identified correlations between age and charges, as well as differences in charges between smokers and non-smokers. Provided recommendations for promoting healthy living and awareness around smoking cessation.
 
 **Role and Contribution**: Led data analysis, performed statistical tests, and generated visualizations to communicate findings effectively.
- [Link](https://nbviewer.org/github/SachinSS96/Portfolio/blob/main/Python/Insurance/Insurance_EDA_Hypothesis_Testing.ipynb)
+ 
 
-<h3 align="center">Customer Segmentation Analysis</h3>
+### [Customer Segmentation Analysis](https://nbviewer.org/github/SachinSS96/Portfolio/blob/main/Python/Customer%20Analytics/Customer%20Segmentation%20%20Analytics.ipynb)
 
 **Description**: Employed PCA and K-Means Clustering on customer data to segment customers based on segmentation data.
 
@@ -57,7 +57,6 @@ I am excited to share my portfolio as a Data Analyst 👨‍💼, where I demons
 **Achievements**: Identified distinct customer segments, enabling targeted marketing efforts and contributing to further analysis of Customer Segmentation using product purchasing data 
 
 **Tech Stack**: python, sci-kit-learn, PCA, K-Means Clustering.
-[Notebook Link](https://nbviewer.org/github/SachinSS96/Portfolio/blob/main/Python/Customer%20Analytics/Customer%20Segmentation%20%20Analytics.ipynb)
 
 
 
