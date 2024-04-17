@@ -56,7 +56,6 @@ I am excited to share my portfolio as a Data Analyst 👨‍💼, where I demons
 
 **Achievements**: Identified distinct customer segments, enabling targeted marketing efforts and contributing to further analysis of Customer Segmentation using product purchasing data 
 
-**Tech Stack**: python, sci-kit-learn, PCA, K-Means Clustering.
 
 
 
