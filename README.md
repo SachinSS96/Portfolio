@@ -48,13 +48,17 @@ I am excited to share my portfolio as a Data Analyst 👨‍💼, where I demons
 **Role and Contribution**: Led data analysis, performed statistical tests, and generated visualizations to communicate findings effectively.
  
 
-### [Customer Segmentation Analysis](https://nbviewer.org/github/SachinSS96/Portfolio/blob/main/Python/Customer%20Analytics/Customer%20Segmentation%20%20Analytics.ipynb)
+### [Credit Card Transaction Analysis ](https://github.com/SachinSS96/Portfolio/blob/main/SQL/credit_card_transcations/credit_card_transcations.sql)
 
-**Description**: Employed PCA and K-Means Clustering on customer data to segment customers based on segmentation data.
+**Overview**: Analyzed credit card transaction data to derive insights into spending patterns, identify trends, and optimize business strategies.
 
-**Responsibilities**: Led data preprocessing and analysis, applying *PCA* for feature extraction and *K-Means Clustering* for customer grouping.
+**Methods**: Developed SQL queries to perform various analyses, including identifying top spending cities, determining highest spend months by card type, and analyzing transaction details for specific criteria.
 
-**Achievements**: Identified distinct customer segments, enabling targeted marketing efforts and contributing to further analysis of Customer Segmentation using product purchasing data 
+**Techniques Used**: Aggregation, ranking, filtering, and cumulative calculations were employed to extract meaningful insights from the dataset.
+
+**Outcomes**: Generated actionable insights such as identifying top spending cities, highest spend months for different card types, and analyzing spending patterns by expense type and gender.
+
+**Impact**: Provided valuable insights to stakeholders for strategic decision-making, targeting marketing efforts, and optimizing business processes.
 
 
 
