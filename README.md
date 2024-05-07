@@ -1,3 +1,4 @@
+ # [RESUME](https://github.com/SachinSS96/Portfolio/blob/main/resume_sachin_sharma.pdf)
 👋 Hello! 
 
 I am excited to share my portfolio as a Data Analyst 👨‍💼, where I demonstrate proficiency in Python 🐍 and SQL for data manipulation and visualization. My technical skills include:
@@ -59,7 +60,6 @@ I am excited to share my portfolio as a Data Analyst 👨‍💼, where I demons
 **Outcomes**: Generated actionable insights such as identifying top spending cities, highest spend months for different card types, and analyzing spending patterns by expense type and gender.
 
 **Impact**: Provided valuable insights to stakeholders for strategic decision-making, targeting marketing efforts, and optimizing business processes.
-
 
 
 
